@@ -14,6 +14,9 @@ Curated, hands-on head-to-head comparisons of AI tools — updated for 2026. Eve
 | [Kimi vs DeepSeek vs ChatGPT](https://ai-tools-compared.com/articles/kimi-vs-deepseek-vs-chatgpt.html) | Long-context specialists face off |
 | [Perplexity vs ChatGPT vs Gemini for Search](https://ai-tools-compared.com/articles/perplexity-vs-chatgpt-vs-gemini-search.html) | Which AI actually finds things |
 | [Best AI Chatbot 2026](https://ai-tools-compared.com/articles/best-ai-chatbot-2026.html) | Overall ranking across 12 contenders |
+| [Claude vs Gemini](https://ai-tools-compared.com/articles/claude-vs-gemini.html) | Fable 5.1 vs Gemini 3.1 Pro head-to-head |
+| [DeepSeek vs Claude](https://ai-tools-compared.com/articles/deepseek-vs-claude.html) | Budget powerhouse vs premium all-rounder |
+| [Best AI Chatbots 2026](https://ai-tools-compared.com/articles/best-ai-chatbots-2026.html) | Top 7 chatbots tested |
 
 ## 💻 AI Coding Assistants
 
@@ -39,6 +42,7 @@ Curated, hands-on head-to-head comparisons of AI tools — updated for 2026. Eve
 | [Best Free AI Image Generator 2026](https://ai-tools-compared.com/articles/best-ai-image-generator-free-2026.html) | Free tools ranked |
 | [Best AI Portrait Generators 2026](https://ai-tools-compared.com/articles/best-ai-portrait-generators-2026.html) | Headshots & portraits |
 | [Best AI Image Generators for Commissions](https://ai-tools-compared.com/articles/best-ai-image-generators-for-commissions-2026.html) | For working artists |
+| [Best AI Character Consistency Tools 2026](https://ai-tools-compared.com/articles/best-ai-character-consistency-tools-2026.html) | Keep the same face across every frame |
 
 ## 🎬 AI Video
 
@@ -51,6 +55,7 @@ Curated, hands-on head-to-head comparisons of AI tools — updated for 2026. Eve
 | [Best AI Video Generator 2026](https://ai-tools-compared.com/articles/best-ai-video-generator-2026.html) | Overall winner |
 | [Best AI Video Editing Tools 2026](https://ai-tools-compared.com/articles/best-ai-video-editing-tools-2026.html) | Top 7 tested |
 | [Best AI Tools for Faceless YouTube](https://ai-tools-compared.com/articles/best-ai-tools-faceless-youtube-2026.html) | Full channel stack |
+| [Kling vs Hailuo vs Vidu](https://ai-tools-compared.com/articles/kling-vs-hailuo-vs-vidu.html) | Budget text-to-video three-way |
 
 ## 🔊 AI Audio & Music
 
@@ -68,6 +73,9 @@ Curated, hands-on head-to-head comparisons of AI tools — updated for 2026. Eve
 | [Sudowrite vs NovelAI vs Novelcrafter](https://ai-tools-compared.com/articles/sudowrite-vs-novelai-vs-novelcrafter.html) | Fiction writing tools |
 | [Best AI Email Writer 2026](https://ai-tools-compared.com/articles/best-ai-email-writer-2026.html) | Inbox automation ranked |
 | [DeepL vs Google Translate vs ChatGPT](https://ai-tools-compared.com/articles/deepl-vs-google-translate-vs-chatgpt.html) | Translation accuracy test |
+| [ChatGPT vs Claude for Writing](https://ai-tools-compared.com/articles/chatgpt-vs-claude-for-writing.html) | Prose quality deep-dive |
+| [Grammarly vs QuillBot](https://ai-tools-compared.com/articles/grammarly-vs-quillbot.html) | Editing vs paraphrasing |
+| [Best AI Writing Tools 2026](https://ai-tools-compared.com/articles/best-ai-writing-tools-2026.html) | Top 7 tested & ranked |
 
 ## 📊 Productivity & Data
 
@@ -102,6 +110,7 @@ Curated, hands-on head-to-head comparisons of AI tools — updated for 2026. Eve
 | [CapCut vs Premiere Pro](https://ai-tools-compared.com/articles/capcut-vs-premiere-pro.html) | Free vs pro editing |
 | [Best AI for Small Business](https://ai-tools-compared.com/articles/best-ai-for-small-business.html) | SMB stack |
 | [Best AI Tools for Automation Agencies](https://ai-tools-compared.com/articles/best-ai-tools-automation-agency-2026.html) | Agency toolkit |
+| [Best AI UGC Ad Generators 2026](https://ai-tools-compared.com/articles/best-ai-ugc-ad-generators-2026.html) | Six UGC ad makers tested |
 
 ## 🎓 Niche & Roundups
 
