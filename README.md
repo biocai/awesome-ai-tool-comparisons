@@ -43,6 +43,7 @@ Curated, hands-on head-to-head comparisons of AI tools — updated for 2026. Eve
 | [Codex vs Cursor](https://ai-tools-compared.com/articles/codex-vs-cursor.html) | OpenAI's agent vs the AI-native editor |
 | [Best AI Coding Agents 2026](https://ai-tools-compared.com/articles/best-ai-coding-agents-2026.html) | Autonomous coders ranked |
 | [Best AI Code Review Tools 2026](https://ai-tools-compared.com/articles/best-ai-code-review-tools-2026.html) | AI PR reviewers tested |
+| [Best AI Coding Tools for Chrome Extensions](https://ai-tools-compared.com/articles/best-ai-coding-tools-chrome-extensions-2026.html) | Build extensions with AI copilots |
 
 ## 🎨 AI Image Generation
 
@@ -76,6 +77,7 @@ Curated, hands-on head-to-head comparisons of AI tools — updated for 2026. Eve
 | [Best AI Tools for Faceless YouTube](https://ai-tools-compared.com/articles/best-ai-tools-faceless-youtube-2026.html) | Full channel stack |
 | [Kling vs Hailuo vs Vidu](https://ai-tools-compared.com/articles/kling-vs-hailuo-vs-vidu.html) | Budget text-to-video three-way |
 | [Kling vs Veo](https://ai-tools-compared.com/articles/kling-vs-veo.html) | Value vs realism in text-to-video |
+| [Seedance 2.5 vs Veo 3.1](https://ai-tools-compared.com/articles/seedance-vs-veo.html) | Newest text-to-video heavyweights |
 | [HeyGen vs Synthesia](https://ai-tools-compared.com/articles/heygen-vs-synthesia.html) | Avatar video for business |
 | [Best AI Avatar Video Generators 2026](https://ai-tools-compared.com/articles/best-ai-avatar-video-generators-2026.html) | Talking-head makers ranked |
 | [Best Image-to-Video AI 2026](https://ai-tools-compared.com/articles/best-image-to-video-ai-2026.html) | Animate any photo |
